@@ -1,0 +1,23 @@
+{
+    "name": "DHT",
+    "description": "Control over DHT (DS18S20, DS18B20, DS2408 and etc)",
+    "keywords": "DHT, 1-wire, bus, sensor, temperature, ibutton",
+    "authors": [
+        {
+            "name": "Abhishek Ramesh",
+            "email": "mabhishekramesh1@gmail.com",
+            "url": "https://pages.razorpay.com/codexdonations",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Abhishek333k/DHT"
+    },
+    "version": "1.0",
+
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.pde"
+    ]
+}
